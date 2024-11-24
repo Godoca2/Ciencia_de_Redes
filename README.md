@@ -1,5 +1,8 @@
 # Ciencia de Redes: Análisis de la Red Objetivo
 
+
+![Ciencia_de_Redes](Image/imagen_red.jpg)
+
 Este repositorio contiene el análisis, desarrollo y visualización de la **red objetivo** como parte del proyecto de **Ciencia de Redes**. El propósito principal fue replicar y visualizar la red objetivo siguiendo las especificaciones y pesos definidos, asegurando que las conexiones, grosores y etiquetas sean representadas correctamente.
 
 ---
